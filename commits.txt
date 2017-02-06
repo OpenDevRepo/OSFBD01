@@ -1,0 +1,11 @@
+commit 7fe39a17f1058d054ef15a0a49d715482fd86c09
+Author: Cristian Ricardo <cristian.ricardo@openintl.com>
+Date:   Mon Feb 6 12:03:10 2017 -0500
+
+    Se borró instalador de git
+
+commit df0776e79dbb9904131e1be522be6a685bbb3cea
+Author: Cristian Ricardo <cristian.ricardo@openintl.com>
+Date:   Mon Feb 6 11:47:46 2017 -0500
+
+    Instalación inicial de Worpress
